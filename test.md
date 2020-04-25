@@ -1,1 +1,1 @@
-The jaguars suck at drafting
+The bills are good at drafting

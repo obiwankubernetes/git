@@ -1,1 +1,0 @@
-The jaguars suck at drafting

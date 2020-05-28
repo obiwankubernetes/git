@@ -1,3 +1,5 @@
+# Using git and github
+
 Creating and Pushing a New Repo
 1. create repo on github 
 1. check if git is running in command line `git`  
